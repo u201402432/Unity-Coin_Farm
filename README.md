@@ -1,6 +1,6 @@
 # Unity-Coin_Farm
 
-[타이틀] : 코인 팜 (Coin Farm)
+[타이틀] : 코인 팜 (Coin Farm) /\
 [개발]   : 1인 기획/개발
 [출시]   : 미정
 
